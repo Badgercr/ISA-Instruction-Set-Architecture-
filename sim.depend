@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1544595757 source:c:\css-2b\sim\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<string.h>
+	<map>
+	<vector>
+
+1544599357 source:c:\past hartnell classes\computer science\css-2b\sim\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<string.h>
+	<map>
+	<vector>
+
